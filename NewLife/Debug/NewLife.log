@@ -1,0 +1,4 @@
+﻿  Character.cpp
+C:\Users\Mikael\source\repos\NewLife\NewLife\Character.cpp(190,4): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\Mikael\source\repos\NewLife\NewLife\Character.cpp(196,4): warning C4551: в вызове функции отсутствует список аргументов
+  NewLife.vcxproj -> C:\Users\Mikael\source\repos\NewLife\Debug\NewLife.exe
